@@ -23,13 +23,20 @@ of the [webpage](https://github.com/alexwiegmanpx/map-events-website) are all en
 
 ## List of Contributors
 
-Original Author: [Gal Weizman](https://github.com/weizman) | [PerimeterX](https://github.com/galpx)
-Currently Maintaining Contributor: [Alex T.W.](https://github.com/madicetea) | [PerimeterX](https://github.com/alexwiegmanpx)
+Original Author:
+
+- [Gal Weizman](https://github.com/weizman) | [PerimeterX](https://github.com/galpx)
+
+Currently Maintaining Contributor:
+
+- [Alex T.W.](https://github.com/madicetea) | [PerimeterX](https://github.com/alexwiegmanpx)
 
 Internal Contributors:
+
 (Your name here 🙂)
 
 Community Contributors:
+
 (Your name here 🙂)
 
 Everyone's work is highly appreciated. Thank you!
